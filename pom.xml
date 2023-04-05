@@ -20,8 +20,8 @@
 	<properties>
 		<sonar.host.url>https://sonarcloud.io/</sonar.host.url>
 		<sonar.login>bdca268c884da4259edd40b1158ed1be82c9d5b3</sonar.login>
-		<sonar.organization>Lokeshtechnonew</sonar.organization>
-		<sonar.projectKey>lokeshtechnonewweb</sonar.projectKey>
+		<sonar.organization>klokeshreddy243</sonar.organization>
+		<sonar.projectKey>klokeshreddy243_lokesh</sonar.projectKey>
 		<sonar.moduleKey>${project.groupId}:${project.artifactId}</sonar.moduleKey>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>11</maven.compiler.source>
